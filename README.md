@@ -28,5 +28,7 @@ The project successfully delivers clear, actionable insights into grocery invent
 •	Optimize inventory levels by identifying under- and over-stocked products.
 
 •	Enhance procurement strategies by aligning reorder points with sales and stock data.
+
 •	Improve supplier management by evaluating cost-effectiveness and reliability.
+
 •	Maximize revenue by focusing on high-performing product categories and reducing dead stock.
