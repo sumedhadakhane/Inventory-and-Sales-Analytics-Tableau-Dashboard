@@ -16,14 +16,14 @@ This project aims to address these challenges by developing two interactive Tabl
 
 •	Created sales and inventory performance dashboard to identify product performance trends and sales efficiency.
 
-•	Created Inventory Health & Supplier Analysis: Track reorder needs, visualize stock health, and evaluate supplier pricing.
+•	Created Inventory & Supplier Analysis: to track reorder needs, visualize stocks, and evaluate supplier pricing.
 
 •	Added filters for Product Category, Supplier, and Inventory Status to allow users to explore data from multiple perspectives.
 
 
 # Conclusion
 
-The project successfully delivers clear, actionable insights into grocery inventory and sales operations through two focused dashboards. By visualizing sales trends, product performance, inventory turnover, and supplier pricing, the dashboards empower users to:
+The project delivers clear, actionable insights into grocery inventory and sales operations through two focused dashboards. By visualizing sales trends, product performance, inventory turnover, and supplier pricing, the dashboards empower users to:
 
 •	Optimize inventory levels by identifying under- and over-stocked products.
 
